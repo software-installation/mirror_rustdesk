@@ -2,127 +2,127 @@
   "releases": {
     "40570836": {
       "tag_name": "1.1.2",
-      "fully_synced_at": "2025-07-28 13:53:48.930416"
+      "fully_synced_at": "2025-07-28 18:59:35.250073"
     },
     "41136696": {
       "tag_name": "1.1.3",
-      "fully_synced_at": "2025-07-28 13:53:51.042650"
+      "fully_synced_at": "2025-07-28 18:59:36.933946"
     },
     "41981620": {
       "tag_name": "1.1.4",
-      "fully_synced_at": "2025-07-28 13:53:53.044663"
+      "fully_synced_at": "2025-07-28 18:59:38.547978"
     },
     "42809747": {
       "tag_name": "1.1.5",
-      "fully_synced_at": "2025-07-28 13:53:55.097569"
+      "fully_synced_at": "2025-07-28 18:59:40.152371"
     },
     "44571412": {
       "tag_name": "1.1.6",
-      "fully_synced_at": "2025-07-28 13:53:56.935258"
+      "fully_synced_at": "2025-07-28 18:59:41.694666"
     },
     "48259144": {
       "tag_name": "1.1.8",
-      "fully_synced_at": "2025-07-28 13:53:58.972698"
+      "fully_synced_at": "2025-07-28 18:59:43.359966"
     },
     "65824683": {
       "tag_name": "1.1.9",
-      "fully_synced_at": "2025-07-28 13:54:00.977609"
+      "fully_synced_at": "2025-07-28 18:59:44.925981"
     },
     "110892238": {
       "tag_name": "1.2.0",
-      "fully_synced_at": "2025-07-28 13:54:03.220128"
+      "fully_synced_at": "2025-07-28 18:59:46.605979"
     },
     "111726429": {
       "tag_name": "1.2.1",
-      "fully_synced_at": "2025-07-28 13:54:05.219223"
+      "fully_synced_at": "2025-07-28 18:59:48.037662"
     },
     "117737560": {
       "tag_name": "1.2.2",
-      "fully_synced_at": "2025-07-28 13:54:07.380541"
+      "fully_synced_at": "2025-07-28 18:59:49.973955"
     },
     "124173761": {
       "tag_name": "1.2.3",
-      "fully_synced_at": "2025-07-28 13:54:09.672491"
+      "fully_synced_at": "2025-07-28 18:59:51.744190"
     },
     "142632010": {
       "tag_name": "1.2.3-1",
-      "fully_synced_at": "2025-07-28 13:54:11.536266"
+      "fully_synced_at": "2025-07-28 18:59:53.249316"
     },
     "150099709": {
       "tag_name": "1.2.3-2",
-      "fully_synced_at": "2025-07-28 13:54:13.583637"
+      "fully_synced_at": "2025-07-28 18:59:54.834023"
     },
     "155348864": {
       "tag_name": "1.2.4",
-      "fully_synced_at": "2025-07-28 13:54:15.466893"
+      "fully_synced_at": "2025-07-28 18:59:56.399119"
     },
     "163737584": {
       "tag_name": "fdroid-version",
-      "fully_synced_at": "2025-07-28 13:54:21.288093"
+      "fully_synced_at": "2025-07-28 19:00:00.721559"
     },
     "158542841": {
       "tag_name": "1.2.5",
-      "fully_synced_at": "2025-07-28 13:54:23.542582"
+      "fully_synced_at": "2025-07-28 19:00:02.584986"
     },
     "160759643": {
       "tag_name": "1.2.6",
-      "fully_synced_at": "2025-07-28 13:54:25.544811"
+      "fully_synced_at": "2025-07-28 19:00:04.411288"
     },
     "166628155": {
       "tag_name": "1.2.7",
-      "fully_synced_at": "2025-07-28 13:54:27.642734"
+      "fully_synced_at": "2025-07-28 19:00:06.249908"
     },
     "170845690": {
       "tag_name": "1.3.0",
-      "fully_synced_at": "2025-07-28 13:54:29.845827"
+      "fully_synced_at": "2025-07-28 19:00:07.811012"
     },
     "176120475": {
       "tag_name": "1.3.1",
-      "fully_synced_at": "2025-07-28 13:54:31.830163"
+      "fully_synced_at": "2025-07-28 19:00:09.401310"
     },
     "182376392": {
       "tag_name": "1.3.2",
-      "fully_synced_at": "2025-07-28 13:54:33.953966"
+      "fully_synced_at": "2025-07-28 19:00:11.054902"
     },
     "187533434": {
       "tag_name": "1.3.3",
-      "fully_synced_at": "2025-07-28 13:54:35.896439"
+      "fully_synced_at": "2025-07-28 19:00:12.773450"
     },
     "188885977": {
       "tag_name": "1.3.4",
-      "fully_synced_at": "2025-07-28 13:54:37.953965"
+      "fully_synced_at": "2025-07-28 19:00:14.478325"
     },
     "189146507": {
       "tag_name": "1.3.5",
-      "fully_synced_at": "2025-07-28 13:54:39.900877"
+      "fully_synced_at": "2025-07-28 19:00:16.002172"
     },
     "191992516": {
       "tag_name": "1.3.6",
-      "fully_synced_at": "2025-07-28 13:54:41.765239"
+      "fully_synced_at": "2025-07-28 19:00:17.516074"
     },
     "195685560": {
       "tag_name": "1.3.7",
-      "fully_synced_at": "2025-07-28 13:54:43.672707"
+      "fully_synced_at": "2025-07-28 19:00:19.069546"
     },
     "201841082": {
       "tag_name": "1.3.8",
-      "fully_synced_at": "2025-07-28 13:54:45.794799"
+      "fully_synced_at": "2025-07-28 19:00:20.652293"
     },
     "209258062": {
       "tag_name": "1.3.9",
-      "fully_synced_at": "2025-07-28 13:54:47.835995"
+      "fully_synced_at": "2025-07-28 19:00:22.449276"
     },
     "217789198": {
       "tag_name": "1.4.0",
-      "fully_synced_at": "2025-07-28 13:54:49.846853"
+      "fully_synced_at": "2025-07-28 19:00:23.979949"
     },
     "80480743": {
       "tag_name": "nightly",
-      "fully_synced_at": "2025-07-28 13:54:52.834278"
+      "fully_synced_at": "2025-07-28 19:00:26.490064"
     },
     "234496301": {
       "tag_name": "1.4.1",
-      "fully_synced_at": "2025-07-28 13:56:36.445300"
+      "fully_synced_at": "2025-07-28 19:01:59.503439"
     }
   },
   "assets": {
@@ -1112,8 +1112,8 @@
       "rustdesk-version.txt_38": {
         "name": "rustdesk-version.txt",
         "size": 38,
-        "updated_at": "2025-07-28T13:54:21+00:00",
-        "synced_at": "2025-07-28 13:54:21.282402"
+        "updated_at": "2025-07-28T19:00:00+00:00",
+        "synced_at": "2025-07-28 19:00:00.715814"
       }
     },
     "158542841": {
@@ -4330,8 +4330,8 @@
       "rustdesk-1.4.1-x86_64.msi_23384064": {
         "name": "rustdesk-1.4.1-x86_64.msi",
         "size": 23384064,
-        "updated_at": "2025-07-23T13:54:12+00:00",
-        "synced_at": "2025-07-23 13:54:12.221577"
+        "updated_at": "2025-07-28T19:01:59+00:00",
+        "synced_at": "2025-07-28 19:01:59.493043"
       },
       "rustdesk-1.4.1-0-x86_64.pkg.tar.zst_22337197": {
         "name": "rustdesk-1.4.1-0-x86_64.pkg.tar.zst",
@@ -4366,8 +4366,8 @@
       "rustdesk-1.4.1-aarch64-signed.apk_24098036": {
         "name": "rustdesk-1.4.1-aarch64-signed.apk",
         "size": 24098036,
-        "updated_at": "2025-07-28T13:55:19+00:00",
-        "synced_at": "2025-07-28 13:55:19.850193"
+        "updated_at": "2025-07-28T19:00:49+00:00",
+        "synced_at": "2025-07-28 19:00:49.908292"
       },
       "rustdesk-1.4.1-aarch64.AppImage_78928392": {
         "name": "rustdesk-1.4.1-aarch64.AppImage",
@@ -4396,14 +4396,14 @@
       "rustdesk-1.4.1-armv7-signed.apk_23381244": {
         "name": "rustdesk-1.4.1-armv7-signed.apk",
         "size": 23381244,
-        "updated_at": "2025-07-28T13:55:42+00:00",
-        "synced_at": "2025-07-28 13:55:42.365998"
+        "updated_at": "2025-07-28T19:01:12+00:00",
+        "synced_at": "2025-07-28 19:01:12.521269"
       },
       "rustdesk-1.4.1-universal-signed.apk_64268088": {
         "name": "rustdesk-1.4.1-universal-signed.apk",
         "size": 64268088,
-        "updated_at": "2025-07-28T13:55:48+00:00",
-        "synced_at": "2025-07-28 13:55:48.710053"
+        "updated_at": "2025-07-28T19:01:17+00:00",
+        "synced_at": "2025-07-28 19:01:17.457431"
       },
       "rustdesk-1.4.1-unsigned.tar.gz_84162074": {
         "name": "rustdesk-1.4.1-unsigned.tar.gz",
@@ -4432,8 +4432,8 @@
       "rustdesk-1.4.1-x86_64-signed.apk_23807208": {
         "name": "rustdesk-1.4.1-x86_64-signed.apk",
         "size": 23807208,
-        "updated_at": "2025-07-28T13:56:10+00:00",
-        "synced_at": "2025-07-28 13:56:10.687758"
+        "updated_at": "2025-07-28T19:01:36+00:00",
+        "synced_at": "2025-07-28 19:01:36.402915"
       },
       "rustdesk-1.4.1-x86_64.AppImage_81705464": {
         "name": "rustdesk-1.4.1-x86_64.AppImage",
@@ -4470,6 +4470,120 @@
         "size": 23351296,
         "updated_at": "2025-07-28T13:56:36+00:00",
         "synced_at": "2025-07-28 13:56:36.434458"
+      },
+      "rustdesk-1.4.1-0-x86_64.pkg.tar.zst_22338573": {
+        "name": "rustdesk-1.4.1-0-x86_64.pkg.tar.zst",
+        "size": 22338573,
+        "updated_at": "2025-07-28T19:00:31+00:00",
+        "synced_at": "2025-07-28 19:00:31.314585"
+      },
+      "rustdesk-1.4.1-0.aarch64-suse.rpm_26928527": {
+        "name": "rustdesk-1.4.1-0.aarch64-suse.rpm",
+        "size": 26928527,
+        "updated_at": "2025-07-28T19:00:34+00:00",
+        "synced_at": "2025-07-28 19:00:35.065361"
+      },
+      "rustdesk-1.4.1-0.aarch64.rpm_26928505": {
+        "name": "rustdesk-1.4.1-0.aarch64.rpm",
+        "size": 26928505,
+        "updated_at": "2025-07-28T19:00:38+00:00",
+        "synced_at": "2025-07-28 19:00:38.809231"
+      },
+      "rustdesk-1.4.1-0.x86_64-suse.rpm_27711859": {
+        "name": "rustdesk-1.4.1-0.x86_64-suse.rpm",
+        "size": 27711859,
+        "updated_at": "2025-07-28T19:00:42+00:00",
+        "synced_at": "2025-07-28 19:00:42.634679"
+      },
+      "rustdesk-1.4.1-0.x86_64.rpm_27711807": {
+        "name": "rustdesk-1.4.1-0.x86_64.rpm",
+        "size": 27711807,
+        "updated_at": "2025-07-28T19:00:46+00:00",
+        "synced_at": "2025-07-28 19:00:46.433221"
+      },
+      "rustdesk-1.4.1-aarch64.AppImage_73845256": {
+        "name": "rustdesk-1.4.1-aarch64.AppImage",
+        "size": 73845256,
+        "updated_at": "2025-07-28T19:00:55+00:00",
+        "synced_at": "2025-07-28 19:00:55.243797"
+      },
+      "rustdesk-1.4.1-aarch64.deb_18830708": {
+        "name": "rustdesk-1.4.1-aarch64.deb",
+        "size": 18830708,
+        "updated_at": "2025-07-28T19:00:58+00:00",
+        "synced_at": "2025-07-28 19:00:58.634419"
+      },
+      "rustdesk-1.4.1-aarch64.dmg_23822772": {
+        "name": "rustdesk-1.4.1-aarch64.dmg",
+        "size": 23822772,
+        "updated_at": "2025-07-28T19:01:02+00:00",
+        "synced_at": "2025-07-28 19:01:02.420317"
+      },
+      "rustdesk-1.4.1-aarch64.flatpak_19199624": {
+        "name": "rustdesk-1.4.1-aarch64.flatpak",
+        "size": 19199624,
+        "updated_at": "2025-07-28T19:01:05+00:00",
+        "synced_at": "2025-07-28 19:01:05.797222"
+      },
+      "rustdesk-1.4.1-armv7-sciter.deb_10259324": {
+        "name": "rustdesk-1.4.1-armv7-sciter.deb",
+        "size": 10259324,
+        "updated_at": "2025-07-28T19:01:08+00:00",
+        "synced_at": "2025-07-28 19:01:08.947276"
+      },
+      "rustdesk-1.4.1-unsigned.tar.gz_84159149": {
+        "name": "rustdesk-1.4.1-unsigned.tar.gz",
+        "size": 84159149,
+        "updated_at": "2025-07-28T19:01:23+00:00",
+        "synced_at": "2025-07-28 19:01:23.422671"
+      },
+      "rustdesk-1.4.1-x86-sciter.exe_11001480": {
+        "name": "rustdesk-1.4.1-x86-sciter.exe",
+        "size": 11001480,
+        "updated_at": "2025-07-28T19:01:26+00:00",
+        "synced_at": "2025-07-28 19:01:26.588459"
+      },
+      "rustdesk-1.4.1-x86_64-sciter.deb_13969456": {
+        "name": "rustdesk-1.4.1-x86_64-sciter.deb",
+        "size": 13969456,
+        "updated_at": "2025-07-28T19:01:29+00:00",
+        "synced_at": "2025-07-28 19:01:29.900618"
+      },
+      "rustdesk-1.4.1-x86_64-sciter.flatpak_14282112": {
+        "name": "rustdesk-1.4.1-x86_64-sciter.flatpak",
+        "size": 14282112,
+        "updated_at": "2025-07-28T19:01:32+00:00",
+        "synced_at": "2025-07-28 19:01:33.047377"
+      },
+      "rustdesk-1.4.1-x86_64.AppImage_81701368": {
+        "name": "rustdesk-1.4.1-x86_64.AppImage",
+        "size": 81701368,
+        "updated_at": "2025-07-28T19:01:41+00:00",
+        "synced_at": "2025-07-28 19:01:41.405783"
+      },
+      "rustdesk-1.4.1-x86_64.deb_20612364": {
+        "name": "rustdesk-1.4.1-x86_64.deb",
+        "size": 20612364,
+        "updated_at": "2025-07-28T19:01:44+00:00",
+        "synced_at": "2025-07-28 19:01:44.800546"
+      },
+      "rustdesk-1.4.1-x86_64.dmg_30173765": {
+        "name": "rustdesk-1.4.1-x86_64.dmg",
+        "size": 30173765,
+        "updated_at": "2025-07-28T19:01:48+00:00",
+        "synced_at": "2025-07-28 19:01:48.594820"
+      },
+      "rustdesk-1.4.1-x86_64.exe_23075464": {
+        "name": "rustdesk-1.4.1-x86_64.exe",
+        "size": 23075464,
+        "updated_at": "2025-07-28T19:01:52+00:00",
+        "synced_at": "2025-07-28 19:01:52.184768"
+      },
+      "rustdesk-1.4.1-x86_64.flatpak_20968224": {
+        "name": "rustdesk-1.4.1-x86_64.flatpak",
+        "size": 20968224,
+        "updated_at": "2025-07-28T19:01:55+00:00",
+        "synced_at": "2025-07-28 19:01:55.759524"
       }
     }
   },
